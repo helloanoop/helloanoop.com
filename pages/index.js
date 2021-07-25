@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import Link from 'next/link';
 
 export default function Index() {
@@ -13,7 +12,7 @@ export default function Index() {
 
       <main className="page-home">
         <div className="profile-photo-section">
-          <Image src="/images/anoop.jpg" width="150px" height="150px" className="profile-photo"/>
+          <img src="/images/anoop.jpg" width="150px" height="150px" className="profile-photo"/>
         </div>
         <div className="name">
           anoop
