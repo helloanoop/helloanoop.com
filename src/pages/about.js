@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Navbar from 'components/Navbar';
-import Link from 'next/link';
 
 export default function Index() {
   return (
@@ -25,7 +24,7 @@ export default function Index() {
 
             <p>I live with my mom, wife and our dog bruno.</p>
 
-            <p>I went to <a target="_blank" href="https://www.google.com/maps/place/12.970699+77.747437/@12.970699,77.747437,18z">St Thomas School</a>, did pre-graduation at <a href="https://www.sjc.ac.in/" target="_blank">St Joesphs</a> and completed my graduation in Electronics and Communication at <a href="https://www.cmrit.ac.in/">CMRIT</a></p>
+            <p>I went to <a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/12.970699+77.747437/@12.970699,77.747437,18z">St Thomas School</a>, did pre-graduation at <a href="https://www.sjc.ac.in/" a rel="noreferrer" target="_blank">St Joesphs</a> and completed my graduation in Electronics and Communication at <a rel="noreferrer" href="https://www.cmrit.ac.in/">CMRIT</a></p>
           </div>
         </div>
       </main>
