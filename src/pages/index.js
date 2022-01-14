@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Navbar from 'components/Navbar';
 import Link from 'next/link';
 
 export default function Index() {
@@ -11,6 +12,7 @@ export default function Index() {
       </Head>
 
       <main className="page-home">
+        <Navbar />
         <div className="profile-photo-section">
           <img src="/images/anoop.jpg" width="150px" height="150px" className="profile-photo"/>
         </div>
