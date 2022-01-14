@@ -1,0 +1,30 @@
+.page-body {
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.page-body .page-title {
+  font-size: 1.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.page-body .page-content {
+  font-size: 1.125rem;
+
+  p {
+    margin-bottom: 0.75rem;
+  }
+
+  a {
+    color: rgb(0, 87, 188);
+    cursor: pointer;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
