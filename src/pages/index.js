@@ -40,7 +40,7 @@ export default function Index() {
           marginTop: '3rem',
           color: '#292b2d'
         }}>
-          You can contact me at <Link href="https://twitter.com/anoop_md">twitter</Link> or <Link href="https://www.linkedin.com/in/anoop-m-d-868099100/">linkedin</Link>
+          You can contact me on <Link href="https://twitter.com/anoop_md">twitter</Link> or <Link href="https://www.linkedin.com/in/anoop-m-d-868099100/">linkedin</Link>
         </section>
 
         {/* <section className="nav">
