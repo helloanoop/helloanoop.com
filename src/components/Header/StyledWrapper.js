@@ -13,6 +13,10 @@ const Wrapper = styled.div`
     nav {
       a {
         margin-left: 1rem;
+
+        &.active {
+          font-weight: 600;
+        }
       }
     }
   }

@@ -1,29 +1,52 @@
-.page-body {
+.page {
   width: 100%;
   max-width: 640px;
   margin: 0 auto;
   margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
   text-align: left;
-}
-
-.page-body .page-title {
-  font-size: 1.75rem;
-  margin-bottom: 1.5rem;
-}
-
-.page-body .page-content {
   font-size: 1.125rem;
 
-  p {
-    margin-bottom: 0.75rem;
+  .page-title {
+    font-size: 1.75rem;
+    font-weight: 700;
   }
 
-  a {
-    color: rgb(0, 87, 188);
-    cursor: pointer;
+  .page-content {
+    margin-top: 1.5rem;
+
+    p {
+      margin-bottom: 0.75rem;
+    }
   
-    &:hover {
-      text-decoration: underline;
+    a {
+      color: rgb(0, 87, 188);
+      cursor: pointer;
+    
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
+
+// Blog page
+.page.page-blog {
+  .blog-date {
+    font-size: 1rem;
+    color: #5a5d60;
+  }
+}
+
+// About Page
+.page.page-about {
+  div.profile-photo-section {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+
+    img.profile-photo {
+      border-radius: 50%;
+    }
+  }
+}
+

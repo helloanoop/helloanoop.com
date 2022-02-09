@@ -1,5 +1,6 @@
 import Head from 'next/head';
-import Navbar from 'components/Navbar';
+import Link from 'next/link';
+import Header from 'components/Header';
 
 export default function Index() {
   return (
@@ -10,13 +11,13 @@ export default function Index() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="page-home">
-        <Navbar />
+      <Header />
+      <main className="page page-home">
         <div className="page-body">
           <h4 className="text-lg font-medium">2020</h4>
           <ul>
             <li>
-              26/11 - Titanic
+              26/11 - <Link href="/blog/titanic">Titanic</Link>
             </li>
           </ul>
         </div>
