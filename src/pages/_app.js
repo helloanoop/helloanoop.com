@@ -1,7 +1,6 @@
 import '../styles/globals.css';
 import '../styles/markdown.css';
 import '../styles/page.scss';
-import '../styles/index.scss';
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />

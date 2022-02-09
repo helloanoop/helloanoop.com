@@ -3,7 +3,8 @@ import styled from 'styled-components';
 const Wrapper = styled.div`
   header {
     border-bottom: solid 1px #e8e8e8;
-    max-width: 640px;
+    width: 100%;
+    max-width: 768px;
     margin: 0 auto;
 
     .anoop {

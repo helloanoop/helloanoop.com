@@ -12,7 +12,7 @@ export default function Index() {
 
       <Header />
       <main className="page page-about">
-        <h4 className="page-title font-bold">Hi there 👋</h4>
+        <h4 className="text-xl font-bold">Hi there 👋</h4>
 
         <div className="page-content">
           <div className="profile-photo-section">

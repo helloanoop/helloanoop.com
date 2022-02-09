@@ -13,14 +13,12 @@ export default function Index() {
 
       <Header />
       <main className="page page-home">
-        <div className="page-body">
-          <h4 className="text-lg font-medium">2020</h4>
-          <ul>
-            <li>
-              26/11 - <Link href="/blog/titanic">Titanic</Link>
-            </li>
-          </ul>
-        </div>
+        <h4 className="text-lg font-medium">2020</h4>
+        <ul>
+          <li>
+            26/11 - <Link href="/blog/titanic">Titanic</Link>
+          </li>
+        </ul>
       </main>
 
       <footer>

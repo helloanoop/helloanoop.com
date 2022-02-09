@@ -1,11 +1,10 @@
 .page {
   width: 100%;
-  max-width: 640px;
+  max-width: 768px;
   margin: 0 auto;
   margin-top: 1.5rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 4rem;
   text-align: left;
-  font-size: 1.125rem;
 
   .page-title {
     font-size: 1.75rem;
@@ -13,8 +12,6 @@
   }
 
   .page-content {
-    margin-top: 1.5rem;
-
     p {
       margin-bottom: 0.75rem;
     }
@@ -24,6 +21,36 @@
       cursor: pointer;
     
       &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Home page
+.page-home {
+  ul {
+    list-style: disc;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+
+    li {
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Work page
+.page-work {
+  ul {
+    list-style: disc;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+
+    li {
+      a:hover {
         text-decoration: underline;
       }
     }
