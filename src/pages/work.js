@@ -73,7 +73,7 @@ export default function Index() {
           <ul>
             <li>Co Founder - <small className="ml-1">Dec 2014 - till date</small></li>
           </ul>
-          <p className="mt-2">Lead a team of 3 developers and built  <a target="_blank" rel="noreferrer" href="www.strizly.com">strizly.com</a>, A CRM for Salon & Spas used over by 150+ brands in India</p>
+          <p className="mt-2">Led a team of 3 developers and built  <a target="_blank" rel="noreferrer" href="www.strizly.com">strizly.com</a>, A CRM for Salon & Spas used over by 150+ brands in India</p>
 
         </div>
       </main>
