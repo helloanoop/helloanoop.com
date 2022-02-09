@@ -20,7 +20,7 @@ export default function Index() {
           </div>
           <p>I am Anoop, a full stack software programmer based out of Bangalore.</p>
 
-          <p>I live with my mom, wife and our dog bruno.</p>
+          <p>I live with my wife, mom and our dog bruno.</p>
 
           <p>I went to <a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/12.970699+77.747437/@12.970699,77.747437,18z">St Thomas School</a>, did pre-graduation at <a href="https://www.sjc.ac.in/" a rel="noreferrer" target="_blank">St Joesphs</a> and completed my graduation in Electronics and Communication at <a rel="noreferrer" href="https://www.cmrit.ac.in/">CMRIT</a></p>
 
