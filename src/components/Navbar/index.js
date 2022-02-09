@@ -6,11 +6,11 @@ const Navbar = () => {
   return (
     <StyledWrapper className="w-full site-navbar">
       <div>
-        <header className="flex items-center py-4 px-6">
+        <header className="flex items-center py-3">
           <Link href="/">
             <a className="font-bold anoop pr-4">anoop</a>
           </Link>
-          <nav className='flex'>
+          <nav className='flex flex-grow justify-end'>
             <Link href="/projects">
               <a>projects</a>
             </Link>

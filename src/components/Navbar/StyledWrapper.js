@@ -2,13 +2,9 @@ import styled from 'styled-components';
 
 const Wrapper = styled.div`
   header {
-    transition-property: opacity;
-    transition-duration: .4s;
-    opacity: .4;
-
-    &:hover {
-      opacity: 1;
-    }
+    border-bottom: solid 1px #e8e8e8;
+    max-width: 640px;
+    margin: 0 auto;
 
     .anoop {
       font-size: 1.6rem;

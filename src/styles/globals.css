@@ -10,3 +10,8 @@ body {
   font-family: 'Lora', serif;
 }
 
+body {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
