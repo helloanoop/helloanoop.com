@@ -16,7 +16,7 @@ export default function Index() {
 
         <div className="page-content">
           <div className="profile-photo-section">
-            <img src="/images/anoop.jpg" width="120px" height="120px" className="profile-photo"/>
+            <img src="/images/anoop.jpg" width="120px" height="120px" className="profile-photo" alt="anoop"/>
           </div>
           <p>I am Anoop, a full stack software programmer based out of Bangalore.</p>
 
