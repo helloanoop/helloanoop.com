@@ -18,7 +18,7 @@ export default function Index() {
             <li>Co founded 2 companies and took them from zero to production</li>
             <li>A decade of experience in programming and building apps with Javascript and web technologies</li>
             <li>Strong leadership skills. Several years experience leading teams of 5-15 people.</li>
-            <li>Currently working as Engineering Lead for People10, leading a team of 12 delivering experiences for Allegiant Airlines</li>
+            <li>Currently working as Engineering Manager for People10, leading a team of 12 delivering experiences for Allegiant Airlines</li>
           </ul>
 
           <h4 className="text-xl font-bold mt-6">About Me 😎</h4>
@@ -38,7 +38,8 @@ export default function Index() {
             <small className="ml-1">(4.5yrs)</small>
           </div>
           <ul>
-            <li>Engineering Lead - <small className="ml-1">Mar 2021 - till date</small></li>
+            <li>Engineering Manager - <small className="ml-1">Apr 2022 - till date</small></li>
+            <li>Engineering Lead - <small className="ml-1">Apr 2021 - Mar 2022</small></li>
             <li>Technical Consultant - <small className="ml-1">Sep 2018 - Mar 2021</small></li>
             <li>Technical Lead - <small className="ml-1">May 2017 - Aug 2017</small></li>
             <li>Development Lead - <small className="ml-1">May 2016 - April 2017</small></li>
