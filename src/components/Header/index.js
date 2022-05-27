@@ -22,14 +22,20 @@ const Header = () => {
       <div>
         <header className="flex items-center py-3">
           <Link href="/">
-            <a className="font-bold anoop pr-4">anoop</a>
+            <a className="font-bold anoop">anoop</a>
           </Link>
           <nav className='flex flex-grow justify-end'>
+            <Link href="/">
+              <a className={getClassName('')}>blog</a>
+            </Link>
             <Link href="/projects">
               <a className={getClassName('projects')}>projects</a>
             </Link>
-            <Link href="/work">
-              <a className={getClassName('work')}>work</a>
+            <Link href="/extras">
+              <a className={getClassName('extras')}>extras</a>
+            </Link>
+            <Link href="/resume">
+              <a className={getClassName('resume')}>resume</a>
             </Link>
             <Link href="/about">
               <a className={getClassName('about')}>about</a>
