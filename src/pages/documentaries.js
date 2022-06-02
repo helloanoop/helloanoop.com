@@ -19,10 +19,11 @@ export default function Index() {
                 <a target="_blank" rel="noreferrer" href="www.notebase.com">AlphaGo By Deepmind</a>
                 <div className='mt-2'>
                     What I enjoyed the most was not the details about AlphaGo and how it beat the world's best Go Player 4-1.
-                    It was rather learning about Lee Sedol, and the way he carried himself throughout. His sheer skill and love towards his craft.
+                    It was rather getting to know Lee Sedol, and the way he carried himself throughout. His sheer skill and love towards his craft.
                     The humility with which he handled each loss.
                     Imagine losing 3-0, and going for a press conference and handling it with absolute grace and class.
                     And his comeback when he won the 4th game, tears rolled down my eyes as I watched it.
+                    The documentary is also a fine example of filmaking and story telling.
                 </div>
             </li>
           </ul>

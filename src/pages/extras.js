@@ -16,7 +16,8 @@ export default function Index() {
         <div className="page-content">
           <h2>All the little 'extras' that don't fit as posts unto themselves.</h2>
           <ul className="mt-4">
-            <li>📽 <Link href="/documentaries">documentaries</Link></li>
+            <li>📽&nbsp;<Link href="/documentaries">documentaries</Link></li>
+            <li className="mt-2">⌛&nbsp;<Link href="/time">time</Link></li>
           </ul>
         </div>
       </main>
