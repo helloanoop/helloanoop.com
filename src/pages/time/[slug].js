@@ -21,7 +21,7 @@ export default function BlogPage({
 };
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync(path.join('posts/time'));
+  const files = fs.readdirSync(path.join('time'));
 
   const paths = files.map((filename) => ({
     params: {
@@ -38,7 +38,7 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params: { slug } }) {
     console.log('here');
   const markdownWithMeta = fs.readFileSync(
-    path.join('posts/time', slug + '.md'),
+    path.join('time', slug + '.md'),
     'utf-8'
   );
 
