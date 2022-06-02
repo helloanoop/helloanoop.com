@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 import Header from 'components/Header';
 
 export default function Index() {
@@ -31,6 +32,12 @@ export default function Index() {
             Instead of trying to answer<span className='italic'>"What are light quanta?"</span>, I try to answer <span className='italic'>"What is time?"</span>&nbsp;
             Following are some of my writings as I try to answer that question.
           </div>
+
+          <ul className='mt-6'>
+            <li>
+                1.&nbsp;<Link href="/time/matter-is-an-illusion">matter is an illusion</Link>
+            </li>
+            </ul>
         </div>
       </main>
     </>

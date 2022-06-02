@@ -59,6 +59,7 @@
 /* Blockquotes */
 .markdown blockquote {
   @apply p-2;
+  margin-bottom: 0.75rem;
   border-left: 4px solid #DDD;
   color: #777;
 }
