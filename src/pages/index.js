@@ -16,7 +16,8 @@ export default function Index() {
         <h4 className="text-lg font-medium">2020</h4>
         <ul>
           <li>
-            26/11 - <Link href="/blog/titanic">Titanic</Link>
+            26/11 - <Link href="/blog/titanic">titanic</Link>
+            20/07 - <Link href="/blog/battery-and-a-bulb">battery & a bulb</Link>
           </li>
         </ul>
       </main>

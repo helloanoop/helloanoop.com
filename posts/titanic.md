@@ -1,7 +1,7 @@
 ---
-title: 'Titanic'
+title: 'titanic'
 date: '26 September 2020'
-description: 'Titanic'
+description: 'titanic'
 ---
 The first movie that I watched in theatre. My cousin Sandeep took me.
 
