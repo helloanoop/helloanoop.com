@@ -5,6 +5,7 @@
   margin-top: 1.5rem;
   margin-bottom: 4rem;
   text-align: left;
+  font-size: 1rem;
 
   .page-title {
     font-size: 1.75rem;
@@ -29,12 +30,17 @@
 
 // Home page
 .page-home {
-  ul {
+  ul.blog-list {
     list-style: disc;
     padding-left: 2rem;
     padding-top: 0.5rem;
 
     li {
+      margin-top: 5px;
+      span {
+        display: inline-block;
+        min-width: 3rem;
+      }
       a:hover {
         text-decoration: underline;
       }

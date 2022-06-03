@@ -6,6 +6,7 @@ const Wrapper = styled.div`
     width: 100%;
     max-width: 768px;
     margin: 0 auto;
+    font-size: 1rem;
 
     .anoop {
       font-size: 1.6rem;
