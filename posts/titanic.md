@@ -9,4 +9,8 @@ The background theme of titanic is perhaps my favourite theme of all time. Somet
 
 When I listen to the Hymn to the sea, I don't know what it is, Its not the story, not the visuals, but there is something deep, something unexplainable that moves me, makes me all fuzzy.
 
+The bgm of titanic is so high up there, that Ive never come across anything else that comes close.
+
+Celine dion and Sissel Kyrkjebø, I am still mesmerized by your voice. Thank you!
+
 I think titanic in a way captures the insignificance of our lives when compared to the grandness of the universe. The ship in the vastness of the sea is like our world in the vastness of space. So much of chaos, joy, hatred, love, jealousy which ultimately settles down and disappears into the sea.
