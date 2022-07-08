@@ -16,9 +16,6 @@ export default function Index() {
         <h4 className="text-lg font-medium">2020</h4>
         <ul className='blog-list'>
           <li>
-            <span>26/11 </span> - <Link href="/blog/titanic">titanic</Link>
-          </li>
-          <li>
             <span>20/07 </span> - <Link href="/blog/battery-and-a-bulb">battery & a bulb</Link>
           </li>
         </ul>
