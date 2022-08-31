@@ -25,7 +25,7 @@ export default function Index() {
 
           <p>I went to <a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/12.970699+77.747437/@12.970699,77.747437,18z">St Thomas School</a>, did pre-graduation at <a href="https://www.sjc.ac.in/" a rel="noreferrer" target="_blank">St Joesphs</a> and completed my graduation in Electronics and Communication at <a rel="noreferrer" href="https://www.cmrit.ac.in/">CMRIT</a></p>
 
-          <p>When not programming, I love to <Link href="/">write</Link>, ponder about the nature of <Link href="/time">time</Link> and read books.</p>
+          <p>When not programming or building <a target="_blank" rel="noreferrer" href="https://byte42.net">open source stuff</a>, I love to <Link href="/">write</Link>, ponder about the nature of <Link href="/time">time</Link> and read books.</p>
           <p>You can find me on the web at <a target="_blank" rel="noreferrer" href="https://github.com/anoopmd">Github</a>, <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anoop-m-d-868099100">LinkedIn</a> or <a target="_blank" rel="noreferrer" href="https://twitter.com/anoopcodes">Twitter</a></p>
         </div>
       </main>
