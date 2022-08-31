@@ -27,7 +27,7 @@ export default function Index() {
           </div>
           <div className='mt-4'>
             As I read this quote, the part <span className='italic'>"What are light quanta?"</span> stuck with me. With all the advancements that we have made in physics so far, I think this question is still unanswered.
-            For a long time, I held this question as a guidepoint in my amateur prodding to understand the nature of existsnce.
+            For a long time, I held this question as a guidepoint in my amateur prodding to understand the nature of existence.
             As per the theory of special relativity, a photon does not experience time. And time is relative. Over time (the irony 😛), I changed the guidepoint.
             Instead of trying to answer<span className='italic'>"What are light quanta?"</span>, I try to answer <span className='italic'>"What is time?"</span>&nbsp;
             Following are some of my writings as I try to answer that question.

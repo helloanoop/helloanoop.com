@@ -22,7 +22,7 @@ const Header = () => {
       <div>
         <header className="flex items-center py-3">
           <Link href="/">
-            <a className="font-bold anoop">anoop</a>
+            <a className="font-medium anoop">anoop</a>
           </Link>
           <nav className='flex flex-grow justify-end'>
             <Link href="/">

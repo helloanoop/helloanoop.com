@@ -7,6 +7,7 @@ const Wrapper = styled.div`
     max-width: 768px;
     margin: 0 auto;
     font-size: 1rem;
+    font-family: Lora, serif;
 
     .anoop {
       font-size: 1.6rem;
