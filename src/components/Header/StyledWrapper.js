@@ -10,7 +10,7 @@ const Wrapper = styled.div`
     font-family: Lora, serif;
 
     .anoop {
-      font-size: 1.6rem;
+      font-size: 1.5rem;
     }
 
     nav {

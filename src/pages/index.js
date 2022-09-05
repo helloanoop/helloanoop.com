@@ -21,7 +21,12 @@ export default function Index() {
 
       <Header />
       <main className="page page-home">
-        <h4 className="font-medium">2021</h4>
+        <h4 className="font-medium">2022</h4>
+        <ul className='blog-list'>
+          <BlogLink title="youtube premium" path="/youtube-premium" date="24/05"/>
+        </ul>
+
+        <h4 className="font-medium mt-4">2021</h4>
         <ul className='blog-list'>
           <BlogLink title="indian ceos" path="/indian-ceos" date="14/12"/>
           <BlogLink title="give a shit" path="/give-a-shit" date="10/07"/>
