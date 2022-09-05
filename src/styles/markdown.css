@@ -64,7 +64,7 @@
   color: #777;
 }
 .markdown blockquote > p {
-  @apply mb-0;
+  @apply mb-0 !important;
 }
 
 /* Code */

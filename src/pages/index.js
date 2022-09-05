@@ -3,6 +3,14 @@ import Link from 'next/link';
 import Header from 'components/Header';
 
 export default function Index() {
+  const BlogLink = ({title, date, path}) => {
+    let link = `/blog${path}`;
+    return (
+      <li>
+        <span>{date} </span> - <Link href={link}>{title}</Link>
+      </li>
+    );
+  };
   return (
     <>
       <Head>
@@ -15,23 +23,20 @@ export default function Index() {
       <main className="page page-home">
         <h4 className="font-medium">2021</h4>
         <ul className='blog-list'>
-          <li>
-            <span>10/07 </span> - <Link href="/blog/give-a-shit">give a shit</Link>
-          </li>
+          <BlogLink title="indian ceos" path="/indian-ceos" date="14/12"/>
+          <BlogLink title="give a shit" path="/give-a-shit" date="10/07"/>
+          <BlogLink title="cook" path="/cook" date="28/06"/>
+          <BlogLink title="spacex" path="/spacex" date="21/06"/>
         </ul>
 
         <h4 className="font-medium mt-4">2020</h4>
         <ul className='blog-list'>
-          <li>
-            <span>20/07 </span> - <Link href="/blog/battery-and-a-bulb">battery & a bulb</Link>
-          </li>
+          <BlogLink title="battery & a bulb" path="/battery-and-a-bulb" date="20/07"/>
         </ul>
 
         <h4 className="font-medium mt-4">2018</h4>
         <ul className='blog-list'>
-          <li>
-            <span>05/09 </span> - <Link href="/blog/gratitude">gratitude</Link>
-          </li>
+          <BlogLink title="gratitude" path="/gratitude" date="05/09"/>
         </ul>
       </main>
 

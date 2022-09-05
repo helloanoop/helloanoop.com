@@ -43,8 +43,12 @@
         display: inline-block;
         min-width: 3rem;
       }
-      a:hover {
-        text-decoration: underline;
+      a {
+        color: rgb(0, 87, 188);
+
+        &:hover {
+          text-decoration: underline;
+        }
       }
     }
   }
