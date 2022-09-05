@@ -13,7 +13,14 @@ export default function Index() {
 
       <Header />
       <main className="page page-home">
-        <h4 className="font-medium">2020</h4>
+        <h4 className="font-medium">2021</h4>
+        <ul className='blog-list'>
+          <li>
+            <span>10/07 </span> - <Link href="/blog/give-a-shit">give a shit</Link>
+          </li>
+        </ul>
+
+        <h4 className="font-medium mt-4">2020</h4>
         <ul className='blog-list'>
           <li>
             <span>20/07 </span> - <Link href="/blog/battery-and-a-bulb">battery & a bulb</Link>
