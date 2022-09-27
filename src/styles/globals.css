@@ -8,8 +8,12 @@ body {
   margin: 0;
   width: 100%;
   color: rgb(55, 53, 47);
-  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Inter, sans-serif;
   font-size: 1.125rem;
+
+  font-kerning: none;
+  text-rendering: optimizeSpeed;
+  letter-spacing: normal;
 }
 
 body {

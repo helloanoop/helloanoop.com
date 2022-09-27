@@ -3,14 +3,6 @@ import Link from 'next/link';
 import Header from 'components/Header';
 
 export default function Index() {
-  const BlogLink = ({title, date, path}) => {
-    let link = `/blog${path}`;
-    return (
-      <li>
-        <span>{date} </span> - <Link href={link}>{title}</Link>
-      </li>
-    );
-  };
   return (
     <>
       <Head>
@@ -21,30 +13,20 @@ export default function Index() {
 
       <Header />
       <main className="page page-home">
-        <h4 className="font-medium">2022</h4>
-        <ul className='blog-list'>
-          <BlogLink title="youtube premium" path="/youtube-premium" date="24/05"/>
-        </ul>
+        <div className="page-content">
+          <div className='flex'>
+            <div className="profile-photo-section text-center">
+              <img src="/images/anoop.jpg" width="150px" height="150px" className="profile-photo" alt="anoop"/>
+            </div>
+          </div>
+          <p>I am Anoop, a full stack software programmer based out of Bangalore.</p>
 
-        <h4 className="font-medium mt-4">2021</h4>
-        <ul className='blog-list'>
-          <BlogLink title="indian ceos" path="/indian-ceos" date="14/12"/>
-          <BlogLink title="give a shit" path="/give-a-shit" date="10/07"/>
-          <BlogLink title="cook" path="/cook" date="28/06"/>
-          <BlogLink title="spacex" path="/spacex" date="21/06"/>
-        </ul>
+          <p>I live with my wife, mom and our dog bruno.</p>
 
-        <h4 className="font-medium mt-4">2020</h4>
-        <ul className='blog-list'>
-          <BlogLink title="battery & a bulb" path="/battery-and-a-bulb" date="20/07"/>
-        </ul>
-
-        <h4 className="font-medium mt-4">2018</h4>
-        <ul className='blog-list'>
-          <BlogLink title="gratitude" path="/gratitude" date="05/09"/>
-        </ul>
+          <p>When not programming or building <a target="_blank" rel="noreferrer" href="https://byte42.net">open source stuff</a>, I love to <Link href="/">write</Link>, ponder about the nature of <Link href="/time">time</Link> and read books.</p>
+          <p>You can find me on the web at <a target="_blank" rel="noreferrer" href="https://github.com/anoopmd">Github</a>, <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anoop-m-d-868099100">LinkedIn</a> or <a target="_blank" rel="noreferrer" href="https://twitter.com/anoopcodes">Twitter</a></p>
+        </div>
       </main>
-
       <footer>
       </footer>
     </>

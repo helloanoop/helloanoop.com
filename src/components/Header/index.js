@@ -25,8 +25,8 @@ const Header = () => {
             <a className="font-medium anoop">anoop</a>
           </Link>
           <nav className='flex flex-grow justify-end'>
-            <Link href="/">
-              <a className={getClassName('')}>blog</a>
+            <Link href="/blog">
+              <a className={getClassName('blog')}>blog</a>
             </Link>
             {/* <Link href="/projects">
               <a className={getClassName('projects')}>projects</a>
@@ -36,9 +36,6 @@ const Header = () => {
             </Link>
             <Link href="/resume">
               <a className={getClassName('resume')}>resume</a>
-            </Link>
-            <Link href="/about">
-              <a className={getClassName('about')}>about</a>
             </Link>
           </nav>
         </header>

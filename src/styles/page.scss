@@ -32,24 +32,12 @@
 
 // Home page
 .page-home {
-  ul.blog-list {
-    list-style: disc;
-    padding-left: 2rem;
-    padding-top: 0.5rem;
+  div.profile-photo-section {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 
-    li {
-      margin-top: 5px;
-      span {
-        display: inline-block;
-        min-width: 3rem;
-      }
-      a {
-        color: rgb(0, 87, 188);
-
-        &:hover {
-          text-decoration: underline;
-        }
-      }
+    img.profile-photo {
+      border-radius: 50%;
     }
   }
 }
@@ -79,14 +67,26 @@
   }
 }
 
-// About Page
-.page.page-about {
-  div.profile-photo-section {
-    margin-top: 1rem;
-    margin-bottom: 1.5rem;
+// Blog Page
+.page.page-blog {
+  ul.blog-list {
+    list-style: disc;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
 
-    img.profile-photo {
-      border-radius: 50%;
+    li {
+      margin-top: 5px;
+      span {
+        display: inline-block;
+        min-width: 3rem;
+      }
+      a {
+        color: rgb(0, 87, 188);
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
   }
 }
