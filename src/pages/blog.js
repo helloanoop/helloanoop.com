@@ -24,6 +24,7 @@ export default function BlogPage() {
       <main className="page page-blog">
         <h4 className="font-medium">2022</h4>
         <ul className='blog-list'>
+          <BlogLink title="look at the stars" path="/look-at-the-stars" date="02/12"/>
           <BlogLink title="youtube premium" path="/youtube-premium" date="24/05"/>
         </ul>
 
