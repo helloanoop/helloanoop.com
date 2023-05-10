@@ -28,9 +28,9 @@ const Header = () => {
             <Link href="/blog">
               <a className={getClassName('blog')}>blog</a>
             </Link>
-            {/* <Link href="/projects">
-              <a className={getClassName('projects')}>projects</a>
-            </Link> */}
+            <Link href="/opensource">
+              <a className={getClassName('opensource')}>opensource</a>
+            </Link>
             <Link href="/extras">
               <a className={getClassName('extras')}>extras</a>
             </Link>
