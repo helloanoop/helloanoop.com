@@ -23,6 +23,11 @@ export default function Opensource() {
           </div>
           <div className="mt-2">
             <span className='text-blue-500'>
+              <a href="https://github.com/helloanoop/commit-count" rel="noreferrer" target="_blank">commit-count</a>
+            </span> - See any GitHub repo's userwise commit count for the past 6 months
+          </div>
+          <div className="mt-2">
+            <span className='text-blue-500'>
               <a href="https://github.com/helloanoop/kgraph" rel="noreferrer" target="_blank">kgraph</a>
             </span> - yet another graph based note taking app
           </div>
