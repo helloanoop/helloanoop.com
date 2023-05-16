@@ -3,7 +3,7 @@ title: 'overthinking'
 date: 16 May 2023'
 description: 'overthinking'
 ---
-This is something I have struggled all my life. Continous rambling in my brain about the past and the future. I recently came across this [nice article](https://taylor.town/how-do-taoists-quit-smoking) where a monk who is a smoker approaches his master on advice to quit thinking, the dialogue has a lot of wisdom in them.
+This is something I have struggled all my life. Continous rambling in my brain about the past and the future. I recently came across this [nice article](https://taylor.town/how-do-taoists-quit-smoking) where a monk who is a smoker approaches his master on advice to quit thinking, the dialogue has a lot of wisdom.
 
 Whenever I want to quit any bad habit, I inevitably find myself thinking all the future things I need to do so that I have the will power to not do it again. The story points out the rubbishness in this thinking. All we have is the present. If you want to do build a habit, the best thing to do is do it now, and now is eternal. Same applies letting go of bad habits, you just let them go - now.
 
