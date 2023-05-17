@@ -24,7 +24,7 @@ export default function Index() {
           <p>I live with my wife, mom and our dog bruno.</p>
 
           <p>When not programming or building <Link href="/opensource">opensource stuff</Link>, I love to <Link href="/blog">write</Link>, ponder about the nature of <Link href="/time">time</Link> and read books.</p>
-          <p>You can find me on the web at <a target="_blank" rel="noreferrer" href="https://github.com/anoopmd">Github</a>, <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anoop-m-d-868099100">LinkedIn</a> or <a target="_blank" rel="noreferrer" href="https://twitter.com/anoopcodes">Twitter</a></p>
+          <p>You can find me on the web at <a target="_blank" rel="noreferrer" href="https://github.com/helloanoop">Github</a>, <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anoop-m-d-868099100">LinkedIn</a> or <a target="_blank" rel="noreferrer" href="https://twitter.com/anoopcodes">Twitter</a></p>
         </div>
       </main>
       <footer>
