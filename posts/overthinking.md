@@ -7,7 +7,7 @@ This is something I have struggled all my life. Continous rambling in my brain a
 
 Whenever I want to quit any bad habit, I inevitably find myself thinking all the future things I need to do so that I have the will power to not do it again. The story in the article points out the rubbishness in this thinking. All we have is the present. If you want to do build a habit, the best thing to do is do it *now*, and *now* is eternal. Same applies to letting go of bad habits, you just let them go - *now*.
 
-I don't remember where I read this, perhaps it was in the book "Sapiens", it was along along the lines of - humans started future planning when we settled down as farmers from being hunter gatherers. The hunter gatherers lived in the present, you didn't worry about whether you will have food to eat the next month. You just worry about today. The moment we settled down into farming, then we had to make sure that food was available throughout the year. Because we had lost the privilge that hunter gatherers had where they roamed around place to place scavenging for food.
+I don't remember where I read this, perhaps it was in the book "Sapiens", it was along the lines of - humans started future planning when we settled down as farmers from being hunter gatherers. The hunter gatherers lived in the present, you didn't worry about whether you will have food to eat the next month. You just worry about today. The moment we settled down into farming, then we had to make sure that food was available throughout the year. Because we had lost the privilge that hunter gatherers had where they roamed around place to place scavenging for food.
 
 This habit of "future planning" has hijacked our brains, that we always keep future planning without enjoying the present.
 
