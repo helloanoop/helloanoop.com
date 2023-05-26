@@ -26,7 +26,7 @@ export default function Index() {
 
           <div className="flex flex-col mt-4">
             <h6 className="text-xl font-semibold">People10 Technosoft Pvt Ltd</h6>
-            <div className='text-sm'>Technical Architect - Jan 2016 - Mar 2023 (6yrs)</div>
+            <div className='text-sm'>Engineering Manager - (Jan 2016 - Aug 2017), (Sep 2018 - Mar 2023) (6yrs)</div>
           </div>
           <div className="mt-2">
             During my 6-year tenure, I progressed from a senior software engineer to an architect. I was responsible for building and managing multiple in-house applications, developing customer-facing ecommerce websites, and creating frameworks that were adopted as standards across the organization for an American airlines company. I also led and managed several projects and mentored fellow developers, resulting in the growth and success of multiple teams within the organization.

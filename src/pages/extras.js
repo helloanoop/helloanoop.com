@@ -20,6 +20,13 @@ export default function Index() {
             <li className="mt-2">⌛&nbsp;<Link href="/time">time</Link></li>
             <li className="mt-2">🔖&nbsp;<Link href="/bookmarks">bookmarks</Link></li>
           </ul>
+
+          <h3 className="mt-4 font-semibold">Books</h3>
+          <div className='text-sm'>My notes on some subjects</div>
+          <ul className="mt-4">
+            <li className="mt-2">📚&nbsp;<Link href="https://design-patterns.helloanoop.com/">design-patterns</Link></li>
+          </ul>
+          
         </div>
       </main>
     </>
