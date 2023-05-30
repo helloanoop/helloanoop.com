@@ -25,6 +25,7 @@ export default function Index() {
           <div className='text-sm'>My notes on some subjects</div>
           <ul className="mt-4">
             <li className="mt-2">📚&nbsp;<Link href="https://design-patterns.helloanoop.com/">design-patterns</Link></li>
+            <li className="mt-2">📚&nbsp;<Link href="https://data-structures-algorithms.helloanoop.com/">data-structures-algorithms</Link></li>
           </ul>
           
         </div>
