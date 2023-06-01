@@ -7,4 +7,4 @@ Coining a new word.
 The Gen S.
 Anyone born after 2010.
 The smartphone generation.
-The generation where being a "youtuber" is an aspiring goal in young minds.
+The generation where being a "youtuber" is an aspiring career goal in young minds.
