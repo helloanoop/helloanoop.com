@@ -18,8 +18,9 @@ export default function bookmarks() {
 
           <h2 className='mt-4'>Blogs.</h2>
           <ul className="mt-4">
-            <li className="mt-1"><Link href="https://thehazarika.com/">Malay</Link></li>
-            <li className="mt-1"><Link href="https://manassaloi.com//">Manas J. Saloi</Link></li>
+            <li className="mt-1"><Link href="https://thehazarika.com">Malay</Link></li>
+            <li className="mt-1"><Link href="https://manassaloi.com">Manas J. Saloi</Link></li>
+            <li className="mt-1"><Link href="https://rsms.me">Rasmus Andersson</Link></li>
           </ul>
         </div>
       </main>
