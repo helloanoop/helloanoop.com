@@ -36,6 +36,11 @@ export default function Opensource() {
               <a href="https://github.com/byte-42/redis-explorer" rel="noreferrer" target="_blank">redis explorer</a>
             </span> - a lightweight redis gui to quickly search through keys
           </div>
+          <div className="mt-2">
+            <span className='text-blue-500'>
+              <a href="https://github.com/helloanoop/lru-map-cache" rel="noreferrer" target="_blank">lru-map-cache</a>
+            </span> - a simple and fast lru cache in javascript
+          </div>
           
         </div>
       </main>
