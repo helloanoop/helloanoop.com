@@ -1,5 +1,5 @@
 {
-  "name": "anoop.codes",
+  "name": "helloanoop.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,7 @@
     "postcss": "^8.4.14",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-is": "^18.2.0",
     "sass": "^1.36.0",
     "styled-components": "^5.3.3",
     "tailwindcss": "^3.0.19"

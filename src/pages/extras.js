@@ -19,6 +19,7 @@ export default function Index() {
             <li className="mt-2">📽&nbsp;<Link href="/documentaries">documentaries</Link></li>
             <li className="mt-2">⌛&nbsp;<Link href="/time">time</Link></li>
             <li className="mt-2">🔖&nbsp;<Link href="/bookmarks">bookmarks</Link></li>
+            <li className="mt-2">📜&nbsp;<Link href="/cheatsheets">cheatsheets</Link></li>
           </ul>
 
           <h3 className="mt-4 font-semibold">Books</h3>
