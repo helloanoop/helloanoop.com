@@ -6,7 +6,7 @@ export default function CheatsheetsPage() {
   const CheatsheetLink = ({title, path}) => {
     let link = `/cheatsheet${path}`;
     return (
-      <li>
+      <li className='mt-1'>
         <Link href={link}>{title}</Link>
       </li>
     );
@@ -22,9 +22,15 @@ export default function CheatsheetsPage() {
 
       <Header />
       <main className="page page-cheatsheets">
-        <ul>
-          <CheatsheetLink title="git" path="/git"/>
-        </ul>
+        <div className="page-content">
+          <h2 className='mb-4'>Cheatsheets.</h2>
+
+          <ul>
+            <CheatsheetLink title="git" path="/git"/>
+            <CheatsheetLink title="docker" path="/docker"/>
+            <CheatsheetLink title="mongodb" path="/mongodb"/>
+          </ul>
+        </div>
       </main>
     </>
   );
