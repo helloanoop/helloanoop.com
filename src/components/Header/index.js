@@ -21,25 +21,13 @@ const Header = () => {
     <StyledWrapper className="w-full site-navbar">
       <div>
         <header className="flex items-center py-3">
-          <Link href="/">
-            <a className="font-medium anoop">anoop</a>
-          </Link>
+          <Link href="/" className="font-medium anoop">anoop</Link>
           <nav className='flex flex-grow justify-end'>
-            <Link href="/blog">
-              <a className={getClassName('blog')}>blog</a>
-            </Link>
-            <Link href="/reviews">
-              <a className={getClassName('reviews')}>reviews</a>
-            </Link>
-            <Link href="/opensource">
-              <a className={getClassName('opensource')}>opensource</a>
-            </Link>
-            <Link href="/extras">
-              <a className={getClassName('extras')}>extras</a>
-            </Link>
-            <Link href="/resume">
-              <a className={getClassName('resume')}>resume</a>
-            </Link>
+            <Link href="/blog" className={getClassName('blog')}>blog</Link>
+            <Link href="/reviews" className={getClassName('reviews')}>reviews</Link>
+            <Link href="/opensource" className={getClassName('opensource')}>opensource</Link>
+            <Link href="/extras" className={getClassName('extras')}>extras</Link>
+            <Link href="/resume" className={getClassName('resume')}>resume</Link>
           </nav>
         </header>
       </div>
