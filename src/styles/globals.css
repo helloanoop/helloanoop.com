@@ -8,11 +8,14 @@ body {
   margin: 0;
   width: 100%;
   color: rgb(55, 53, 47);
-  font-family: Inter, sans-serif;
+  font-family: 'Source Serif 4', Georgia, serif;
 
-  font-kerning: none;
-  text-rendering: optimizeSpeed;
+  font-kerning: auto;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   letter-spacing: normal;
+  line-height: 1.7;
 }
 
 body {

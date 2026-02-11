@@ -11,10 +11,13 @@
   .page-title {
     font-size: 1.75rem;
     font-weight: 600;
-    font-family: Lora, serif;
+    font-family: 'Source Serif 4', Georgia, serif;
+    letter-spacing: -0.01em;
   }
 
   .page-content {
+    line-height: 1.75;
+
     p {
       margin-bottom: 0.75rem;
     }
@@ -26,6 +29,29 @@
       &:hover {
         text-decoration: underline;
       }
+    }
+  }
+}
+
+// Opensource page
+.page.page-opensource {
+  .page-content > div {
+    padding: 0.15rem 0;
+    border-bottom: 1px dashed #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    .star-count {
+      margin-left: auto;
+      padding-left: 1rem;
+      white-space: nowrap;
+      color: #c47a1a;
+      font-size: 0.85rem;
     }
   }
 }
@@ -63,7 +89,7 @@
     margin-bottom: 1.5rem;
     font-size: .875rem;
     color: #5a5d60;
-    font-family: Lora, serif;
+    font-family: 'Source Serif 4', Georgia, serif;
   }
 }
 
