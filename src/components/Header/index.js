@@ -28,6 +28,9 @@ const Header = () => {
             <Link href="/blog">
               <a className={getClassName('blog')}>blog</a>
             </Link>
+            <Link href="/reviews">
+              <a className={getClassName('reviews')}>reviews</a>
+            </Link>
             <Link href="/opensource">
               <a className={getClassName('opensource')}>opensource</a>
             </Link>
